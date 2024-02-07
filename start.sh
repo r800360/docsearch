@@ -1,2 +1,2 @@
-javac *.java
-java DocSearchServer.java $1
+javac DocSearchServer.java Server.java
+java DocSearchServer $1 $2
